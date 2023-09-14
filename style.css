@@ -1,0 +1,20 @@
+body {
+    background-color: gray;
+}
+
+div {
+    color: white;
+}
+
+.corojo {
+    color: red;
+}
+
+.letra {
+    font-family: monospace;
+}
+
+#grande {
+    font-size: 20px;
+    font-weight: bold;
+}
