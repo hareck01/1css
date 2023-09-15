@@ -18,3 +18,14 @@ div {
     font-size: 20px;
     font-weight: bold;
 }
+
+.read,
+unread {
+    color: blue;
+    background-color: blueviolet;
+}
+
+.cabecera.negra {
+    color: black;
+    font-weight: bold;
+}
