@@ -29,3 +29,14 @@ unread {
     color: black;
     font-weight: bold;
 }
+
+.ancestor .contents {
+    color: aqua;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+img {
+    width: 200px;
+    height: auto;
+}
