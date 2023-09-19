@@ -1,0 +1,25 @@
+body {
+    background-color: gray;
+}
+
+.n1,
+.n3,
+.n5 {
+    background-color: tomato;
+    font-family: Verdana, sans-serif;
+}
+
+.n2 {
+    color: blue;
+    font-size: 36px;
+}
+
+.n3,
+.n4 {
+    font-size: 24px;
+}
+
+.n4 {
+    background-color: aqua;
+    font-weight: bold;
+}
