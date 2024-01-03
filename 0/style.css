@@ -1,3 +1,21 @@
 body {
   background-color: gray;
 }
+
+.verde {
+  color: green;
+}
+
+.fondorosa {
+  background-color: pink;
+  width: 220px;
+}
+
+.verde.fondorosa {
+  font-size: 60px;
+}
+
+#rojo {
+  color: red;
+  font-weight: bold;
+}
