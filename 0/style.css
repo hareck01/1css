@@ -2,20 +2,16 @@ body {
   background-color: gray;
 }
 
-.verde {
-  color: green;
-}
 
-.fondorosa {
-  background-color: pink;
-  width: 220px;
-}
-
-.verde.fondorosa {
-  font-size: 60px;
-}
-
-#rojo {
+.sub {
   color: red;
+}
+
+.hea {
   font-weight: bold;
+  font-family: monospace;
+}
+
+.sub.hea {
+  background-color: pink;
 }
