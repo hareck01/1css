@@ -15,3 +15,8 @@ body {
 .sub.hea {
   background-color: pink;
 }
+
+img {
+  width: 300px;
+  height: auto;
+}
